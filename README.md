@@ -1,7 +1,7 @@
 # Data Analytics in Network Biology
 
 This project was developed for the **Advanced Coding for Data Analytics** course at **Luiss Guido Carli**.  
-The objective was to construct and analyze a **biomedical knowledge graph** using publicly available data from **Hetionet**, with a focus on discovering relationships between diseases, symptoms, genes, compounds, and side effects. :contentReference[oaicite:2]{index=2}
+The objective was to construct and analyze a **biomedical knowledge graph** using publicly available data from **Hetionet**, with a focus on discovering relationships between diseases, symptoms, genes, compounds, and side effects. 
 
 ## Project Overview
 
